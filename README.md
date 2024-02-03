@@ -20,4 +20,4 @@ To get started with the course, we recommend following these steps:
 
 1. Clone this repository to have local access to the course materials.
    ```bash
-   git clone [Repository URL]
+   git clone https://github.com/Kanchon-Gharami/ML_with_AI_Bangladesh
