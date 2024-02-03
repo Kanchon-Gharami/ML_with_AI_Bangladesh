@@ -27,4 +27,4 @@ To get the most out of this workshop, please ensure you follow these steps:
 
 1. Clone the repository to your local machine if you haven't already done so.
    ```bash
-   git clone [Repository URL]
+   git clone https://github.com/Kanchon-Gharami/ML_with_AI_Bangladesh/tree/main/Workshop%20I
