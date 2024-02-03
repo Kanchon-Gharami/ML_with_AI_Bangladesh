@@ -4,15 +4,15 @@ Welcome to our Full Machine Learning Course, where we embark on a comprehensive 
 
 ## Course Structure
 
-The course is divided into several modules, each focusing on key aspects of machine learning. Here's an overview of what you can expect:
+The course is divided into 24 several modules, each focusing on key aspects of machine learning. Here's an overview of what you can expect:
 
 - **Orientation**: Introduction to the course, resources, and how to make the most out of this learning journey.
-- **Workshop-I**: Our first hands-on workshop, focusing on [Workshop Topic]. More details can be found in the `Workshop-I` directory.
-- **Module 1**: [Module Title] - An introduction to machine learning concepts and tools.
-- **Module 2**: [Module Title] - Diving deeper into supervised and unsupervised learning.
-- **Workshop-II**: The second workshop, which will be more advanced, focusing on [Workshop Topic].
-- [...]
-- **Final Project**: A capstone project that allows you to apply what you've learned in a practical, real-world scenario.
+- **Workshop-I**: Our first hands-on workshop, focusing on Concepts of ML, Application, Career Oppertunities & MLProject Pipeline. More details can be found in the `Workshop-I` directory.
+- **Workshop-II**: The second workshop, which will be more advanced, focusing on advanced improvement in ML, Neural network;Some project demonstration.
+- **Module 1**: [Orientation] - An introduction to machine learning concepts and tools.
+- **Module 2**: Diving deeper into supervised and unsupervised learning.
+- [Will be updated...]
+- **Final Project**: Distinguished projects for each participate that allows you to apply what you've learned in a practical, real-world scenario, and enrich your CV.
 
 ## Getting Started
 
