@@ -1,4 +1,4 @@
-# Workshop-I: Foundations of ML & AI and Hands-on Projects
+# Workshop-I: Learn Machine Learning
 
 Welcome to Workshop-I of our comprehensive Machine Learning course. In this workshop, we delve into the essential concepts of Machine Learning (ML) and Artificial Intelligence (AI), and engage in hands-on coding exercises that will provide a practical understanding of how to implement ML models.
 
