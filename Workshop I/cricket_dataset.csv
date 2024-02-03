@@ -1,0 +1,501 @@
+player_name,total_runs,wickets,label
+Ahmed Shehzad,94,1,batsman
+Azhar Ali,97,2,batsman
+Fakhar Zaman,114,1,batsman
+Imam ul Haq,117,1,batsman
+Babar Azam,117,0,batsman
+Asad Shafiq,59,0,batsman
+Usman Salahuddin,133,1,batsman
+Aaron Finch,71,2,batsman
+Usman Khawaja,86,0,batsman
+Marnus Labuschagne,137,2,batsman
+Matt Renshaw,120,2,batsman
+Chris Lynn,138,1,batsman
+D'Arcy Short,138,1,batsman
+Virat Kohli,62,1,batsman
+Prithvi Shaw,108,2,batsman
+Mayank Agarwal,115,0,batsman
+Cheteshwar Pujara,89,0,batsman
+Ajinkya Rahane,137,1,batsman
+Reeza Hendricks,96,0,batsman
+Aiden Markram,138,2,batsman
+Khaya Zondo,131,2,batsman
+Dean Elgar,87,0,batsman
+Faf du Plessis,75,2,batsman
+David Miller,127,2,batsman
+Rassie van der Dussen,122,2,batsman
+Craig Ervine,59,1,batsman
+Tinashe Kamunhukamwe,70,1,batsman
+Tarisai Musakanda,130,0,batsman
+Kraigg Brathwaite,119,0,batsman
+Shimron Hetmyer,129,0,batsman
+Kieran Powell,97,2,batsman
+Evin Lewis,114,2,batsman
+Rovman Powell,132,1,batsman
+Chandrapaul Hemraj,149,1,batsman
+Darren Bravo,138,0,batsman
+Keaton Jennings,99,0,batsman
+Joe Root,79,2,batsman
+Eoin Morgan,69,1,batsman
+Jason Roy,69,1,batsman
+Mark Stoneman,64,2,batsman
+Sir Alastair Cook,89,0,batsman
+James Vince,82,1,batsman
+Dimuth Karunaratne,115,1,batsman
+Kusal Perera,59,1,batsman
+Upul Tharanga,107,1,batsman
+Roshen Silva,82,1,batsman
+Mahela Udawatte,81,2,batsman
+Nic Maddinson,124,2,batsman
+Joe Burns,73,2,batsman
+Martin Guptill,85,0,batsman
+Henry Nicholls,125,1,batsman
+Neil Broom,105,2,batsman
+Kane Williamson,78,1,batsman
+Colin Munro,84,1,batsman
+Imrul Kayes,50,1,batsman
+Mominul Haque,50,1,batsman
+Tamim Iqbal,86,0,batsman
+Mohammad Mithun,103,2,batsman
+Soumya Sarkar,55,2,batsman
+Sabbir Rahman,88,0,batsman
+Umar Amin,67,1,batsman
+Sahibzada Farhan,129,1,batsman
+Manish Pandey,54,0,batsman
+Suresh Raina,92,0,batsman
+Rohit Sharma,108,0,batsman
+Ambati Rayudu,81,2,batsman
+Murali Vijay,51,1,batsman
+Shikhar Dhawan,115,2,batsman
+Karim Sadiq,91,1,batsman
+Usman Ghani,107,2,batsman
+Najeeb Tarakai,85,0,batsman
+Nawroz Mangal,61,2,batsman
+Hazratullah Zazai,96,0,batsman
+Noor Ali Zadran,132,1,batsman
+Rory Burns,141,1,batsman
+Laurie Evans,50,1,batsman
+Waheedullah Shafaq,64,0,batsman
+Anton Devcich,149,0,batsman
+Imran Janat,103,0,batsman
+Ibrahim Zadran,62,0,batsman
+Dilshan Munaweera,92,0,batsman
+Malcolm Waller,134,0,batsman
+Farhan Zakhil,125,1,batsman
+Sami Ullah,118,0,batsman
+Jake Lehmann,56,2,batsman
+Jono Lehmann,118,2,batsman
+Max Bryant,97,1,batsman
+Sam Heazlett,53,1,batsman
+Alex Ross,126,1,batsman
+George Bailey,150,2,batsman
+Alex Doolan,102,1,batsman
+Nathan Reardon,128,1,batsman
+Tom Cooper,65,0,batsman
+Cameron White,70,1,batsman
+Marcus Harris,149,2,batsman
+Brad Hodge,108,1,batsman
+Rob Quiney,73,1,batsman
+Travis Dean,129,0,batsman
+Peter Handscomb,63,0,batsman
+Mithali Raj,135,1,batsman
+Veda Krishnamurthy,98,1,batsman
+KE Ebrahim,99,2,batsman
+Jess Watkin,119,1,batsman
+Lauren Winfield,91,2,batsman
+Elyse Villani,85,2,batsman
+Tayla Vlaeminck,114,1,batsman
+Kim Garth,145,2,batsman
+Cecelia Joyce,119,2,batsman
+Shauna Kavanagh,144,0,batsman
+Gaby Lewis,50,1,batsman
+Clare Shillington,100,1,batsman
+Britney Cooper,86,1,batsman
+Sheneta Grimmond,84,2,batsman
+Natasha McLean,98,1,batsman
+Yasoda Mendis,143,1,batsman
+Ayesha Zafar,53,1,batsman
+Nahida Khan,148,2,batsman
+Natalia Pervaiz,92,0,batsman
+Sana Mir,127,1,batsman
+Lizelle Lee,71,0,batsman
+Laura Wolvaardt,123,1,batsman
+Fargana Hoque,50,1,batsman
+Ayasha Rahman,60,2,batsman
+Sanjida Islam,93,0,batsman
+Sharmin Akhter,108,2,batsman
+Hashim Amla,73,0,batsman
+Tim David,109,2,batsman
+Michael Klinger,52,0,batsman
+Samuel Badree,148,2,batsman
+Kyle Abbott,112,0,batsman
+Pite van Biljon,85,0,batsman
+Marco Marais,144,0,batsman
+Vaughn van Jaarsveld,117,0,batsman
+Henry Davids,132,1,batsman
+Tony de Zorzi,96,2,batsman
+Ashfaq Ahmed,149,0,batsman
+Chirag Suri,70,0,batsman
+Rameez Shahzad,131,1,batsman
+Fahad Nawaz,100,2,batsman
+Amjad Gul,77,1,batsman
+Shaiman Anwar,64,0,batsman
+Babar Hayat,91,0,batsman
+Ruvindu Gunasekera,108,0,batsman
+Salman Nazar,115,0,batsman
+Alick Athanaze,86,0,batsman
+David Warner,60,1,batsman
+Lendl Simmons,136,0,batsman
+Rizwan Cheema,93,2,batsman
+Hiral Patel,61,2,batsman
+Agha Salman,52,2,batsman
+Abraash Khan,101,0,batsman
+Simon Pervez,130,0,batsman
+Dillon Heyliger,82,2,batsman
+Nicholas Kirton,104,0,batsman
+Dwayne Smith,50,2,batsman
+Kesrick Williams,88,2,batsman
+Imran Nazir,69,0,batsman
+Adam Lyth,96,1,batsman
+Sohail Khan,92,1,batsman
+Kennar Lewis,106,1,batsman
+Rilee Rossouw,110,0,batsman
+Shan Masood,127,0,batsman
+Brian Chari,80,1,batsman
+Cameron McAuslan,74,0,batsman
+Kinchit Shah,52,0,batsman
+Waqas Khan,53,1,batsman
+Ziaur Rahman Sharifi,144,2,batsman
+Jack Edwards,148,2,batsman
+Nick Larkin,63,0,batsman
+Jason Sangha,90,2,batsman
+Callum Ferguson,122,1,batsman
+Charlie Hemphrey,69,1,batsman
+Sam Truloff,145,2,batsman
+Younas Ahmadzai,122,1,batsman
+Jahurul Islam,76,2,batsman
+Junaid Siddique,116,2,batsman
+Mohammad Ashraful,102,1,batsman
+Shadman Islam,117,2,batsman
+Marshall Ayub,111,0,batsman
+Mohammad Naim,64,0,batsman
+Mizanur Rahman,146,2,batsman
+Ian Bell,54,1,batsman
+Shuvagata Hom,117,1,batsman
+Rony Talukdar,61,2,batsman
+Mehedi Maruf,136,2,batsman
+Nadif Chowdhury,127,1,batsman
+Fardeen Hossain,125,0,batsman
+Asela Gunaratne,106,2,batsman
+Shamsur Rahman,66,0,batsman
+Andrew Balbirnie,74,2,batsman
+William Porterfield,79,0,batsman
+James Shannon,71,2,batsman
+Simi Singh,75,1,batsman
+Sharjeel Khan,130,2,batsman
+Misbah ul Haq,110,1,batsman
+Khalid Latif,111,0,batsman
+Umar Siddiq,133,1,batsman
+Kamran Ghulam,83,1,batsman
+Shahzaib Hasan,82,2,batsman
+Nauman Anwar,150,2,batsman
+Ahmed Shehzad,7,6,bowler
+Azhar Ali,8,4,bowler
+Fakhar Zaman,13,5,bowler
+Imam ul Haq,24,10,bowler
+Babar Azam,7,5,bowler
+Asad Shafiq,16,9,bowler
+Usman Salahuddin,24,9,bowler
+Aaron Finch,22,7,bowler
+Usman Khawaja,24,10,bowler
+Marnus Labuschagne,15,5,bowler
+Matt Renshaw,25,5,bowler
+Chris Lynn,8,6,bowler
+D'Arcy Short,3,9,bowler
+Virat Kohli,6,9,bowler
+Prithvi Shaw,17,3,bowler
+Mayank Agarwal,7,8,bowler
+Cheteshwar Pujara,20,7,bowler
+Ajinkya Rahane,25,10,bowler
+Reeza Hendricks,2,5,bowler
+Aiden Markram,28,3,bowler
+Khaya Zondo,16,3,bowler
+Dean Elgar,24,5,bowler
+Faf du Plessis,18,6,bowler
+David Miller,13,8,bowler
+Rassie van der Dussen,23,10,bowler
+Craig Ervine,24,9,bowler
+Tinashe Kamunhukamwe,4,9,bowler
+Tarisai Musakanda,4,8,bowler
+Kraigg Brathwaite,12,8,bowler
+Shimron Hetmyer,17,9,bowler
+Kieran Powell,23,10,bowler
+Evin Lewis,30,4,bowler
+Rovman Powell,22,9,bowler
+Chandrapaul Hemraj,25,8,bowler
+Darren Bravo,20,6,bowler
+Keaton Jennings,1,5,bowler
+Joe Root,5,10,bowler
+Eoin Morgan,25,7,bowler
+Jason Roy,23,4,bowler
+Mark Stoneman,27,4,bowler
+Sir Alastair Cook,29,5,bowler
+James Vince,1,5,bowler
+Dimuth Karunaratne,19,7,bowler
+Kusal Perera,21,9,bowler
+Upul Tharanga,23,8,bowler
+Roshen Silva,19,6,bowler
+Mahela Udawatte,22,9,bowler
+Nic Maddinson,22,7,bowler
+Joe Burns,7,10,bowler
+Martin Guptill,9,8,bowler
+Henry Nicholls,17,5,bowler
+Neil Broom,9,7,bowler
+Kane Williamson,22,9,bowler
+Colin Munro,0,8,bowler
+Imrul Kayes,19,5,bowler
+Mominul Haque,24,4,bowler
+Tamim Iqbal,4,7,bowler
+Mohammad Mithun,17,3,bowler
+Soumya Sarkar,20,4,bowler
+Sabbir Rahman,21,3,bowler
+Umar Amin,16,5,bowler
+Sahibzada Farhan,3,3,bowler
+Manish Pandey,30,6,bowler
+Suresh Raina,10,8,bowler
+Rohit Sharma,1,5,bowler
+Ambati Rayudu,20,3,bowler
+Murali Vijay,4,5,bowler
+Shikhar Dhawan,4,6,bowler
+Karim Sadiq,16,3,bowler
+Usman Ghani,16,3,bowler
+Najeeb Tarakai,15,4,bowler
+Nawroz Mangal,10,3,bowler
+Hazratullah Zazai,13,8,bowler
+Noor Ali Zadran,8,3,bowler
+Rory Burns,30,5,bowler
+Laurie Evans,27,10,bowler
+Waheedullah Shafaq,11,6,bowler
+Anton Devcich,20,7,bowler
+Imran Janat,6,9,bowler
+Ibrahim Zadran,9,8,bowler
+Dilshan Munaweera,28,6,bowler
+Malcolm Waller,27,6,bowler
+Farhan Zakhil,15,3,bowler
+Sami Ullah,3,9,bowler
+Jake Lehmann,19,7,bowler
+Jono Lehmann,12,9,bowler
+Max Bryant,18,7,bowler
+Sam Heazlett,17,6,bowler
+Alex Ross,10,9,bowler
+George Bailey,2,5,bowler
+Alex Doolan,1,7,bowler
+Nathan Reardon,11,7,bowler
+Tom Cooper,3,9,bowler
+Cameron White,12,8,bowler
+Marcus Harris,4,6,bowler
+Brad Hodge,26,8,bowler
+Rob Quiney,1,8,bowler
+Travis Dean,17,4,bowler
+Peter Handscomb,0,7,bowler
+Mithali Raj,7,9,bowler
+Veda Krishnamurthy,24,8,bowler
+KE Ebrahim,26,8,bowler
+Jess Watkin,4,6,bowler
+Lauren Winfield,3,10,bowler
+Elyse Villani,5,4,bowler
+Tayla Vlaeminck,6,6,bowler
+Kim Garth,3,8,bowler
+Cecelia Joyce,2,6,bowler
+Shauna Kavanagh,25,5,bowler
+Gaby Lewis,8,3,bowler
+Clare Shillington,28,9,bowler
+Britney Cooper,1,4,bowler
+Sheneta Grimmond,28,8,bowler
+Natasha McLean,4,8,bowler
+Yasoda Mendis,26,8,bowler
+Ayesha Zafar,0,9,bowler
+Nahida Khan,24,3,bowler
+Natalia Pervaiz,13,4,bowler
+Sana Mir,19,9,bowler
+Lizelle Lee,9,10,bowler
+Laura Wolvaardt,21,8,bowler
+Fargana Hoque,5,10,bowler
+Ayasha Rahman,1,4,bowler
+Sanjida Islam,7,8,bowler
+Sharmin Akhter,29,9,bowler
+Hashim Amla,30,7,bowler
+Tim David,8,5,bowler
+Michael Klinger,22,5,bowler
+Samuel Badree,20,6,bowler
+Kyle Abbott,7,9,bowler
+Pite van Biljon,3,9,bowler
+Marco Marais,21,9,bowler
+Vaughn van Jaarsveld,27,3,bowler
+Henry Davids,12,10,bowler
+Tony de Zorzi,3,8,bowler
+Ashfaq Ahmed,6,8,bowler
+Chirag Suri,20,10,bowler
+Rameez Shahzad,7,6,bowler
+Fahad Nawaz,19,5,bowler
+Amjad Gul,0,6,bowler
+Shaiman Anwar,5,5,bowler
+Babar Hayat,27,5,bowler
+Ruvindu Gunasekera,11,4,bowler
+Salman Nazar,30,6,bowler
+Alick Athanaze,9,4,bowler
+David Warner,19,6,bowler
+Lendl Simmons,7,8,bowler
+Rizwan Cheema,21,9,bowler
+Hiral Patel,5,5,bowler
+Agha Salman,28,8,bowler
+Abraash Khan,8,5,bowler
+Simon Pervez,11,7,bowler
+Dillon Heyliger,14,4,bowler
+Nicholas Kirton,0,8,bowler
+Dwayne Smith,8,10,bowler
+Kesrick Williams,19,9,bowler
+Imran Nazir,6,3,bowler
+Adam Lyth,25,6,bowler
+Sohail Khan,10,8,bowler
+Kennar Lewis,19,3,bowler
+Rilee Rossouw,2,7,bowler
+Shan Masood,27,5,bowler
+Brian Chari,23,4,bowler
+Cameron McAuslan,0,10,bowler
+Kinchit Shah,19,3,bowler
+Waqas Khan,26,4,bowler
+Ziaur Rahman Sharifi,14,5,bowler
+Jack Edwards,0,4,bowler
+Nick Larkin,19,9,bowler
+Jason Sangha,6,4,bowler
+Callum Ferguson,1,10,bowler
+Charlie Hemphrey,12,8,bowler
+Sam Truloff,27,6,bowler
+Younas Ahmadzai,25,9,bowler
+Jahurul Islam,18,3,bowler
+Junaid Siddique,13,7,bowler
+Mohammad Ashraful,9,10,bowler
+Shadman Islam,4,4,bowler
+Marshall Ayub,25,4,bowler
+Mohammad Naim,29,8,bowler
+Mizanur Rahman,27,7,bowler
+Ian Bell,17,9,bowler
+Shuvagata Hom,3,9,bowler
+Rony Talukdar,2,9,bowler
+Mehedi Maruf,20,3,bowler
+Nadif Chowdhury,13,5,bowler
+Fardeen Hossain,25,6,bowler
+Asela Gunaratne,15,10,bowler
+Shamsur Rahman,23,7,bowler
+Andrew Balbirnie,4,4,bowler
+William Porterfield,9,9,bowler
+James Shannon,30,5,bowler
+Simi Singh,4,6,bowler
+Sharjeel Khan,17,7,bowler
+Misbah ul Haq,18,4,bowler
+Khalid Latif,13,9,bowler
+Umar Siddiq,30,3,bowler
+Kamran Ghulam,13,7,bowler
+Shahzaib Hasan,23,9,bowler
+Nauman Anwar,2,4,bowler
+Kieron Pollard,48,5,all_rounder
+George Worker,34,6,all_rounder
+Gulbadin Naib,37,5,all_rounder
+Shahidullah Kamal,33,6,all_rounder
+Kevin O'Brien,78,6,all_rounder
+Paul Stirling,67,6,all_rounder
+Nasrat Ullah,78,4,all_rounder
+Ravi Bopara,81,3,all_rounder
+Tariq Stanikzai,79,5,all_rounder
+Asadullah Matani,79,6,all_rounder
+Sophia Dunkley Brown,59,6,all_rounder
+Kavisha Dilhari,33,2,all_rounder
+Farhaan Behardien,95,2,all_rounder
+JJ Smuts,50,4,all_rounder
+Patrick Kruger,72,6,all_rounder
+James Neesham,58,5,all_rounder
+Joshua Cobb,56,5,all_rounder
+Colin Ackermann,82,2,all_rounder
+Stiaan van Zyl,78,2,all_rounder
+Josh Clarkson,96,3,all_rounder
+Rachin Ravindra,39,6,all_rounder
+Kushal Malla,32,6,all_rounder
+Jacques Snyman,98,2,all_rounder
+Tilak Varma,40,2,all_rounder
+Bryce Parsons,42,2,all_rounder
+Simon Keene,67,3,all_rounder
+Brad Schmulian,69,3,all_rounder
+Neil Brand,62,3,all_rounder
+Kyle Mayers,63,6,all_rounder
+Alice Capsey,56,3,all_rounder
+Nitish Kumar Reddy,80,6,all_rounder
+Rohit Paudel,50,2,all_rounder
+Keacy Carty,58,6,all_rounder
+Evan Jones,48,5,all_rounder
+Ahrar Amin,55,4,all_rounder
+Jowel Mia,54,2,all_rounder
+Abdul Bhadelia,69,5,all_rounder
+Mohamed Ali,58,4,all_rounder
+Allrounder_39,54,5,all_rounder
+Allrounder_40,48,4,all_rounder
+Allrounder_41,97,4,all_rounder
+Allrounder_42,74,3,all_rounder
+Allrounder_43,75,5,all_rounder
+Allrounder_44,84,5,all_rounder
+Allrounder_45,30,2,all_rounder
+Allrounder_46,40,6,all_rounder
+Allrounder_47,97,5,all_rounder
+Allrounder_48,36,5,all_rounder
+Allrounder_49,87,2,all_rounder
+Allrounder_50,100,2,all_rounder
+Allrounder_51,49,3,all_rounder
+Allrounder_52,64,6,all_rounder
+Allrounder_53,80,6,all_rounder
+Allrounder_54,50,3,all_rounder
+Allrounder_55,73,2,all_rounder
+Allrounder_56,30,2,all_rounder
+Allrounder_57,96,2,all_rounder
+Allrounder_58,42,5,all_rounder
+Allrounder_59,45,6,all_rounder
+Allrounder_60,63,6,all_rounder
+Allrounder_61,53,4,all_rounder
+Allrounder_62,42,4,all_rounder
+Allrounder_63,35,5,all_rounder
+Allrounder_64,68,5,all_rounder
+Allrounder_65,31,6,all_rounder
+Allrounder_66,40,4,all_rounder
+Allrounder_67,36,3,all_rounder
+Allrounder_68,36,2,all_rounder
+Allrounder_69,68,6,all_rounder
+Allrounder_70,80,3,all_rounder
+Allrounder_71,81,5,all_rounder
+Allrounder_72,32,2,all_rounder
+Allrounder_73,59,5,all_rounder
+Allrounder_74,39,4,all_rounder
+Allrounder_75,35,3,all_rounder
+Allrounder_76,83,2,all_rounder
+Allrounder_77,95,2,all_rounder
+Allrounder_78,73,5,all_rounder
+Allrounder_79,92,6,all_rounder
+Allrounder_80,77,3,all_rounder
+Allrounder_81,51,2,all_rounder
+Allrounder_82,48,2,all_rounder
+Allrounder_83,43,4,all_rounder
+Allrounder_84,36,3,all_rounder
+Allrounder_85,78,3,all_rounder
+Allrounder_86,70,2,all_rounder
+Allrounder_87,56,3,all_rounder
+Allrounder_88,60,3,all_rounder
+Allrounder_89,35,2,all_rounder
+Allrounder_90,45,2,all_rounder
+Allrounder_91,93,5,all_rounder
+Allrounder_92,67,5,all_rounder
+Allrounder_93,89,5,all_rounder
+Allrounder_94,62,5,all_rounder
+Allrounder_95,92,3,all_rounder
+Allrounder_96,40,4,all_rounder
+Allrounder_97,42,2,all_rounder
+Allrounder_98,94,2,all_rounder
+Allrounder_99,59,6,all_rounder
+Allrounder_100,52,4,all_rounder
