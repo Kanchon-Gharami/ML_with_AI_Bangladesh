@@ -2,6 +2,8 @@
 
 Welcome to our Full Machine Learning Course, where we embark on a comprehensive journey through the fundamentals and advanced topics of machine learning. This course is designed for students, professionals, and anyone with an interest in learning about the transformative power of machine learning technology. Our curriculum is structured to provide a blend of theoretical knowledge, practical skills, and hands-on workshops to ensure a holistic learning experience.
 
+# https://docs.google.com/document/d/1MkNwocGllggEoxMVet-bLXnRqeEGoZlDHp1UeYoGaKA/edit?usp=sharing
+
 ## Course Structure
 
 The course is divided into 24 several modules, each focusing on key aspects of machine learning. Here's an overview of what you can expect:
