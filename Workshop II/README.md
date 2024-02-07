@@ -14,12 +14,14 @@ Welcome to Workshop-II of our comprehensive Machine Learning course. In this wor
 
 ## Resources
 
-- **Dataset**: `golf_data.csv` - The dataset used for the play golf classification project. `survey lung cancer.csv` - The dataset used for lung cancer classification project.
+- **Dataset**:
+   - `golf_data.csv` - The dataset used for the play golf classification project.
+   - `survey lung cancer.csv` - The dataset used for lung cancer classification project.
 - **Documentation**: `Project_Report.pdf` - A comprehensive report detailing the projects, methodologies, and findings.
 - **Notebooks**:
-  - `Cricketer_Classification.ipynb` - Jupyter/Colab notebook for the cricketer classification project.
-  - `Neural_Style_Transfer.ipynb` - Jupyter/Colab notebook for the neural style transfer project.
-- **Slides**: `Pitch Deck.pdf` - The complete slide deck for this workshop, covering all topics and hands-on exercises.
+  - `Golf Classification (Naive_Bayes_Classifier).ipynb` - Jupyter/Colab notebook for the playing golf probability classification project.
+  - `Lung_Cancer_Classification.ipynb` - Jupyter/Colab notebook for the classify cancer from attribute project.
+- **Slides**: `pitch Deck II.pdf` - The complete slide deck for this workshop, covering all topics and hands-on exercises.
 
 ## Getting Started
 
